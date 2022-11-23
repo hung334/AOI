@@ -1,2 +1,2 @@
-# AOI_AOI_An-Ensemble-Learning-Approach-to-Chip-Defect-Detection-in-Optic-Inspection
-AOI
+# AOI
+An-Ensemble-Learning-Approach-to-Chip-Defect-Detection-in-Optic-Inspection
